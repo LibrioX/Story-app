@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+
+    <string name="menuTitle1">Beranda</string>
+    <string name="menuTitle2">Profil</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Lupa Password ?</string>
+    <string name="value_register">Belum punya akun? Daftar disini</string>
+    <string name="storyapp_2023">StoryApp @2023</string>
+    <string name="register">Daftar</string>
+    <string name="join_login">Menuju halaman login</string>
+    <string name="btn_register">Daftar</string>
+    <string name="placeholder_username">Dandy Candra</string>
+    <string name="dandy_candra">Dandy Candra</string>
+    <string name="emaill">dandycandra13@gmail.com</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description_placeholder">Apa yang terjadi?</string>
+    <string name="upload_photo">Unggah</string>
+    <string name="subtitle">Cerita</string>
+    <string name="username">username</string>
+    <string name="description">deskripsi</string>
+    <string name="createdat">dibuatPada</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="errorEmail">Format email salah</string>
+    <string name="errorPassword">Format password harus lebih dari 7 karakter</string>
+    <string name="errorHandlingRegister">Format salah untuk username atau password atau email</string>
+    <string name="errorHandlingLogin">Format salah untuk password atau email</string>
+    <string name="greeting">Selamat!</string>
+    <string name="greetingBody">Akun baru anda telah terbuat</string>
+    <string name="loginSuccess">Login Berhasil</string>
+    <string name="uploadSuccess">Upload Berhasil</string>
+    <string name="errorHandlingDesc">Deskripsi tidak boleh kosong</string>
+    <string name="errorHandlingPhoto">Foto tidak boleh kosong</string>
+    <string name="choosePhoto">Pilih foto</string>
+    <string name="noStories">Tidak ada cerita yang ditemukan</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="menuTitle3">CeritaMap</string>
+    <string name="location">Lokasi</string>
+    <string name="splashScreen">SplashScreen</string>
+    <string name="btnHide">TombolSembunyi</string>
+    <string name="descImageStory">GambarCerita</string>
+    <string name="descFloatingAction">Tombol Aksi Mengambang</string>
+    <string name="descImageLogin">Gambar Login</string>
+    <string name="emailPlaceHolder">Email</string>
+    <string name="passwordPlaceHolder">Password</string>
+    <string name="descBtnShowSheet">Tombol Memperlihatkan Sheet</string>
+    <string name="descImageProfile">Gambar Profilee</string>
+    <string name="descBtnSetting">Tombol Pengaturan</string>
+    <string name="descRegisterImage">Gambar Daftar</string>
+</resources>
