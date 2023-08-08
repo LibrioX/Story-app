@@ -1,7 +1,7 @@
 # Story-app (Android project)
 The Story App is an application where users can upload their stories and share their location. Other users can then view these stories and the associated locations.
 
-
+### User Interface
 ![1](https://github.com/LibrioX/Story-app/assets/106506074/1ad603ea-7da7-4dc3-ba62-48282b81425d)
 ![2](https://github.com/LibrioX/Story-app/assets/106506074/0aa14950-2792-4e95-b0eb-72445e803f21)
 
